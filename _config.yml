@@ -1,0 +1,13 @@
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+
+minimal_mistakes_skin: "default"
+
+locale: "en-US"
+title: "India Election"
+name: "India Election"
+description: "All about India Election"
+url: "https://indiaelection.in"
+repository: "spsneo/indiaelection"
+
+plugins:
+  - jekyll-include-cache
